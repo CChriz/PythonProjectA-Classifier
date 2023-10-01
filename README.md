@@ -1,8 +1,3 @@
-# PythonProjectA-Classifier
-# Email Spam Classifier
-
-This repository contains code for an email spam classifier. In this README, I will provide an overview of the project and explain the approach taken to build the classifier.
-
 ## Approach
 
 I initially approached this task by implementing a Naive Bayes solution as guided in a separate notebook file. However, I was not satisfied with the accuracy of my classifier. Therefore, I explored an alternative approach, which was briefly discussed in the lectures - Logistic Regression.
